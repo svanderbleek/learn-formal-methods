@@ -13,7 +13,5 @@ Mobile friendly tools for learning formal methods
 ## Techniques
 
 * [Pratt Parser](https://engineering.desmos.com/articles/pratt-parser/)
-
-## Similar
-
+* [LF in Python](https://github.com/jon-jacky/FLiP)
 * [WordsAndButtons](http://wordsandbuttons.online/)
