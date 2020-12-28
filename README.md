@@ -18,3 +18,6 @@ Mobile friendly tools for learning formal methods
 * [Visual Code Debugger](https://github.com/hediet/vscode-debug-visualizer)
 * [WordsAndButtons](http://wordsandbuttons.online/)
 
+## Concepts
+
+* [Unit Propogation](https://en.wikipedia.org/wiki/Unit_propagation)
