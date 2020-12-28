@@ -14,4 +14,5 @@ Mobile friendly tools for learning formal methods
 
 * [Pratt Parser](https://engineering.desmos.com/articles/pratt-parser/)
 * [LF in Python](https://github.com/jon-jacky/FLiP)
+* [Proof Editor](https://proofs.openlogicproject.org/)
 * [WordsAndButtons](http://wordsandbuttons.online/)
