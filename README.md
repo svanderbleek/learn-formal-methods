@@ -10,6 +10,10 @@ Mobile friendly tools for learning formal methods
 
 * [ReScript](https://rescript-lang.org/), [example](https://github.com/paulshen/nook-exchange)
 
-## Future
+## Techniques
+
+* [Pratt Parser](https://engineering.desmos.com/articles/pratt-parser/)
+
+## Similar
 
 * [WordsAndButtons](http://wordsandbuttons.online/)
