@@ -17,7 +17,9 @@ Mobile friendly tools for learning formal methods
 * [LF in Python](https://github.com/jon-jacky/FLiP)
 * [Proof Editor](https://proofs.openlogicproject.org/)
 * [Visual Code Debugger](https://github.com/hediet/vscode-debug-visualizer)
+* [Literate Proofs in Lean](http://wwwf.imperial.ac.uk/~buzzard/docs/lean/sandwich.html)
 * [WordsAndButtons](http://wordsandbuttons.online/)
+
 
 ## Concepts
 
