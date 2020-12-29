@@ -32,3 +32,5 @@ Mobile friendly tools for learning formal methods
 The idea would be to develop minimal tooling similar to Practical Logic and Automated Reasoning and then advance through key concepts levering this tooling as a learning aid.
 
 Coverage would be of topics such as Orders and Lattices, we would bootstrap understanding the algorithms by applying them to the concepts needed for understanding their meta-proofs.
+
+Model checking through enumeration and fuzzing versus constraints.
