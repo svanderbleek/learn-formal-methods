@@ -27,7 +27,7 @@ Mobile friendly tools for learning formal methods
 
 ## Future
 
-### As a Course
+### As a Learning Product
 
 The idea would be to develop minimal tooling similar to Practical Logic and Automated Reasoning and then advance through key concepts levering this tooling as a learning aid.
 
