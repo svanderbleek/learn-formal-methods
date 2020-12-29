@@ -34,3 +34,5 @@ The idea would be to develop minimal tooling similar to Practical Logic and Auto
 Coverage would be of topics such as Orders and Lattices, we would bootstrap understanding the algorithms by applying them to the concepts needed for understanding their meta-proofs.
 
 Model checking through enumeration and fuzzing versus constraints.
+
+The approach is not to use off the shelf tools but learn how everything can work at a deeper level through buidling and applying simple implementations of concepts.
